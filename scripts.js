@@ -24,9 +24,17 @@ class Craft {
 }
 
 
+class Fleet {
+    constructor(fleet) {
+        this.fleet = fleet
+        this.crafts = []
+    }
+
+    addCraft(craft)
+}
 
 
-
+/* 2:30 */
 
 
 
