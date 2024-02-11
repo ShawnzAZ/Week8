@@ -150,8 +150,6 @@ deleteCraft() {
 let menu = new Menu();
 menu.start();
 
-/* 13:02 */
-
 
 
 
